@@ -1,5 +1,5 @@
 ---
-title: Zweiter Artikel
+title: Zweiter Artikel Test
 slug: article-2
 categories: kapitel2
 relevance: Eltern
